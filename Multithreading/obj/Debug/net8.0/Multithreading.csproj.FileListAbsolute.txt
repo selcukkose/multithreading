@@ -1,0 +1,14 @@
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/bin/Debug/net8.0/Multithreading
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/bin/Debug/net8.0/Multithreading.deps.json
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/bin/Debug/net8.0/Multithreading.runtimeconfig.json
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/bin/Debug/net8.0/Multithreading.dll
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/bin/Debug/net8.0/Multithreading.pdb
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.AssemblyInfoInputs.cache
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.AssemblyInfo.cs
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.csproj.CoreCompileInputs.cache
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.dll
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/obj/Debug/net8.0/refint/Multithreading.dll
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.pdb
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.genruntimeconfig.cache
+/Users/sekose/Documents/Examples/dotnet multithreading/Multithreading/Multithreading/obj/Debug/net8.0/ref/Multithreading.dll
